@@ -1,0 +1,46 @@
+{
+    "ask": 7909.41,
+    "bid": 7904.58,
+    "last": 7907.73,
+    "high": 8157.08,
+    "low": 7783.28,
+    "volume": 51259.92117725,
+    "open": {
+        "hour": 7865.34,
+        "day": 7900.31,
+        "week": 8769.23,
+        "month": 9812.03,
+        "month_3": 7226.94,
+        "month_6": 10081.48,
+        "year": 3883.60
+    },
+    "averages": {
+        "day": 7921.24,
+        "week": 8559.26,
+        "month": 9307.95
+    },
+    "changes": {
+        "price": {
+            "hour": 42.39,
+            "day": 7.42,
+            "week": -861.50,
+            "month": -1904.30,
+            "month_3": 680.79,
+            "month_6": -2173.75,
+            "year": 4024.13
+        },
+        "percent": {
+            "hour": 0.54,
+            "day": 0.09,
+            "week": -9.82,
+            "month": -19.41,
+            "month_3": 9.42,
+            "month_6": -21.56,
+            "year": 103.62
+        }
+    },
+    "volume_percent": 71.55,
+    "timestamp": 1583932892,
+    "display_timestamp": "2020-03-11 13:21:32",
+    "display_symbol": "BTC-USD"
+}
